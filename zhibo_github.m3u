@@ -198,3 +198,5 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文HD
 http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",探索频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
